@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".series_list" />
+        <activity android:name=".view_serie"></activity>
     </application>
 
 </manifest>
